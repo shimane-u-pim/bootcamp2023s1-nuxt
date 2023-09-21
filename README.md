@@ -7,7 +7,11 @@
 pnpx nuxi@latest init pim-bc-23s1
 ```
 
+[See files after this section](https://github.com/shimane-u-pim/bootcamp2023s1-nuxt/tree/11c6f33d1a79ee752aa797655f686f08e088c638)
+
 ## Install Bootstrap
+
+[See files after this section](https://github.com/shimane-u-pim/bootcamp2023s1-nuxt/tree/0ec2412a00e228ca242feaf76fafc6a18c37b88a)
 
 ### Install node modules
 
@@ -44,6 +48,8 @@ export default defineNuxtConfig({
 ```
 
 ## Add NuxtPage
+
+[See files after this section](https://github.com/shimane-u-pim/bootcamp2023s1-nuxt/tree/54024d5d108319b71bab87e47e15bf8223a3fb54)
 
 ### Create Nav component
 
