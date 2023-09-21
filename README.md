@@ -1,4 +1,5 @@
-# Pim Bootcamp 2023 Summer 1: HTML, Boostrap and Nuxt
+# Pim Bootcamp 2023 Summer 1, Program 1
+[HTML](https://html.spec.whatwg.org/multipage/), [Bootstrap](https://getbootstrap.com/) and [Nuxt](https://nuxt.com/)
 
 ## Initialize Nuxt project
 
