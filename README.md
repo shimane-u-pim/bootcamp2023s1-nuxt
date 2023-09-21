@@ -41,3 +41,48 @@ export default defineNuxtConfig({
   ],
 })
 ```
+
+## Add NuxtPage
+
+### Create Nav component
+
+Create `components/Nav.vue` like:
+
+```vue,components/Nav.vue
+<template>
+    <NuxtLink to="/">Home</NuxtLink>
+    |
+    <NuxtLink to="/about">About</NuxtLink>
+</template>
+```
+
+### Create index page
+
+Create `pages/index.vue` like:
+
+```vue,page/index.vue
+<template>
+    <h1>Hello Index</h1>
+</template>
+```
+
+### Create about page
+
+Create `pages/about.vue` like:
+
+```vue,page/about.vue
+<template>
+    <h1>hello about</h1>
+</template>
+```
+
+### Edit app.vue
+
+Edit `app.vue` like:
+
+```vue,app.vue
+<template>
+    <Nav />
+    <NuxtPage />
+</template>
+```
